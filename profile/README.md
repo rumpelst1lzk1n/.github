@@ -2,7 +2,7 @@
 
 This oranisation is meant to keep the awesome Bluejay 8Bit ESC firmware alive and push it forward until the maintainer returns and takes back his project - or it might stay here for ever.
 
-* [Bluejay](https://github.com/mathiasvr/bluejay)
+* [Bluejay](https://github.com/bird-sanctuary/bluejay)
 * [Bluejay Documentation](https://github.com/bird-sanctuary/bluejay-documentation)
 * [Join us on Discord](https://discord.gg/phAmtxnMMN)
 * [ESC Configurator](https://esc-configurator.com)
